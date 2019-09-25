@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/PlayerMotor.cs">
+    <Files>
+      <File FileName="Assets/scripts/PlayerMotor.cs" Line="48" Column="10" />
+      <File FileName="Assets/scripts/Coin.cs" Line="24" Column="33" />
+      <File FileName="Assets/scripts/MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/DeathMenu.cs" Line="40" Column="8" />
+      <File FileName="Assets/scripts/CameraMotor.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Score.cs" Line="37" Column="16" />
+      <File FileName="Assets/scripts/TileManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="PlayerMotor.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="17d71676-a81c-4fa6-ac7c-51ed9d26c3da" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
